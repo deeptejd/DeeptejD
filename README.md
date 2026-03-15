@@ -12,15 +12,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
-👋🏻 Hey, I am ***Deeptej Dhauskar***
+👋🏻 Hey, I am ***Deeptej Dhauskar*** ~
 
-[![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar)
+[![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar) ![views](https://komarev.com/ghpvc/?username=deeptejd&color=brightgreen&style=plastic)
 
-🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> with hands-on experience in Mobile app development using Flutter and Jetpack Compose and Backend development using Express.js and MongoDB in Node.js.  
+🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> interested in Android app development using Jetpack Compose and occasionally Flutter, and Backend development using Spring Boot and the Spring Framework in general.  
 
-🛠️ I’m currently developing Android applications using Flutter and learning Full Stack Development.  
+🛠️ I currently work full-time as a Software Engineer particularly in the HMI field, where I get to build applications using Jetpack Compose.  
   
-**📦 Latest Projects:**
+**🌸 Latest Projects:**
 - [*Rosto Radar*](https://github.com/QuickAxe/RADCM/): An automated road anomaly detection and mapping system that user smartphone sensors to automatically detect and display anomalies like <img src="https://github.com/user-attachments/assets/e8ae0b15-9722-45d2-9989-90e7cde1307d" alt="pothole" width="30" valign="middle" /> potholes. I primarily focused on developing the Flutter applications for this project.
 - [*CosmoDex*](https://github.com/DeeptejD/data-hackfest): CosmoDex is an interactive web application that combines real-time _NASA Near Earth Object (NEO)_ data with Gemini-powered storytelling to create an educational and gamified space learning experience, [*Winner of the best UI/UX Project @ MLH Data Hackfest*](https://devpost.com/software/cosmodex).
 - [*ClassFetch*](https://github.com/DeeptejD/ClassFetch): A browser extension that allows bulk downloading files from Google Classroom. Available as a [*GitHub Release*](https://github.com/deeptejd/classfetch/releases/latest) and on the [*Edge Add-on store*](https://microsoftedge.microsoft.com/addons/detail/classfetch/ffmompjmgnnleondhldhdmekfcbjjnii). 
