@@ -14,7 +14,7 @@
 
 👋🏻 Hey, I am ***Deeptej Dhauskar*** ~
 
-[![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar) ![views](https://komarev.com/ghpvc/?username=deeptejd&color=brightgreen&style=plastic)
+[![email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:deeptejdhauskar2003@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/deeptejdhauskar) ![Resume](https://img.shields.io/badge/resume-latest-green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume) ![views](https://komarev.com/ghpvc/?username=deeptejd&color=blue&style=plastic)
 
 🎓 A *CS Engineering Undergrad* <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank"><img src="https://github.com/user-attachments/assets/65ecfc66-5acf-4164-ae6a-b788056282a9" alt="rubber-duck-debugging" width="30" valign="middle" /></a> interested in Android app development using Jetpack Compose and occasionally Flutter, and Backend development using Spring Boot and the Spring Framework in general.  
 
